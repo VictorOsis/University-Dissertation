@@ -85,13 +85,6 @@ The project highlighted the importance of **evaluating assumptions** and testing
 - Integrate external signals like **news or social media sentiment**
 - Explore reinforcement learning for trading decisions
 
-## 📜 Author
-
-**Victor Osisanya**  
-University of Kent  
-Supervised by Dr. Xiaowei Gu  
-Email: vo54@kent.ac.uk
-
 ## 🧾 License
 
 This project is for educational and research purposes. No financial advice is provided.
