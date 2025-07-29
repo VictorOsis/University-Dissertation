@@ -128,7 +128,7 @@ model.fit(X_train, y_train, epochs =100, batch_size = 64, verbose = 0)
 # Getting the predicted stock price
 test_data = training_scaled_data[training_data_len - 180: , : ]
 
-m = MeanSquaredError()
+m = MeanSquaredError() 
 
 #Create the x_test and y_test data sets
 X_test = []
